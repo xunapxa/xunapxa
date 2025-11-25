@@ -42,7 +42,7 @@
 - 문서 임베딩 및 유사도 기반 문서 추천  
 - S3 연동 + 관리자 기능 + 일정 관리
 
-🔗 **Repository:** (넣으면 링크)
+🔗 **Repository:** ((https://github.com/highfiveAI/flowy-pro-backend))
 
 ---
 
